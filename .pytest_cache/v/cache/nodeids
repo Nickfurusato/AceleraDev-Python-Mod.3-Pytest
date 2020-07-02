@@ -1,0 +1,5 @@
+[
+  "test_main.py::test_get_temperature_by_lat_lng[68--23,5849--46,6098-20]",
+  "test_main.py::test_get_temperature_by_lat_lng[86--15,5849--55,5849-30]",
+  "test_main.py::test_get_temperature_by_lat_lng[62-14.235004-51.92528-16]"
+]
